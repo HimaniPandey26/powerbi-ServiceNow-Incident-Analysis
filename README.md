@@ -1,3 +1,4 @@
+![Dashboard Preview](https://github.com/HimaniPandey26/powerbi-ServiceNow-Incident-Analysis/blob/main/Screenshot%202026-02-22%20203858.png)
 # powerbi-ServiceNow-Incident-Analysis
 Interactive serviceNow Incident Analysis Dashboard built using Power BI
 This Power BI dashboard analyzes service desk incident data across regions and priorities.
